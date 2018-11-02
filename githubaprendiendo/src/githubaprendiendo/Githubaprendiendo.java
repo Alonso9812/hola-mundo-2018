@@ -5,6 +5,10 @@
  */
 package githubaprendiendo;
 
+import javax.swing.JOptionPane;
+
+
+
 /**
  *
  * @author jordi
@@ -16,6 +20,7 @@ public class Githubaprendiendo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        JOptionPane.showMessageDialog(null,"hola mundo");
     }
     
 }
